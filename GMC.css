@@ -1,0 +1,101 @@
+body{
+   background-color: white;
+}
+#entete{
+   width:cover;
+   height:110px;
+   background-image: url(https://th.bing.com/th/id/OIP.4bDndPqedLjU4BbyG5QcVQHaEs?w=263&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7);
+   background-position:center;
+   background-size: cover;
+   padding-left:0px;
+   padding-right:0px;
+   box-sizing: border-box;}
+   #Titre
+   {
+      font-size: 70px;
+      text-align: center;
+      color: white;
+   }
+   .principal{
+      background-image: url();
+      width:cover;
+      background-position:cover;
+      background-size:auto;
+      box-sizing: border-box;
+      color: black;
+   }
+   #menu ul>li
+   {
+      text-decoration-color: black;
+      text-align: center;
+      display: inline-block;
+      padding-right: 40px;
+      padding-left: 75px;
+      padding-top: 15px;
+   }
+   a:hover
+   {
+      text-decoration-color: blue;
+      color:black
+   }
+   a
+   {
+      color: white;
+   }
+   h1,h2,h3
+   {
+      text-align: center;
+      color: black;
+   }
+   p
+   {
+      font-size: larger;
+      text-align: center;
+      
+      
+   }
+   .video
+   {
+      display: block;
+      text-align: center;
+   }
+   .images
+   {
+      display: block;
+      text-align: center;
+   }
+   .piedpage>a
+   {
+      display: inline-block;
+      text-align: center;
+      text-align: center;
+      color: rgb(55, 55, 167);
+      border: 3px solid black;
+      padding: 10px;
+   }
+   .piedpage
+   {
+      display:block;
+      width:cover;
+      color: black;
+      background-color: whitesmoke;
+      text-align: center;
+   }
+   .map
+   {
+      display: block;
+      text-align:center;
+   }
+   p
+   {
+      background-color: ;
+      }
+   #idb
+   {
+   float: left;
+   }
+   #idbg
+   {
+   float: right;
+   }
+   

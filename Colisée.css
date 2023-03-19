@@ -1,0 +1,99 @@
+body{
+   background-color: whitesmoke;
+}
+#entete{
+   width:cover;
+   height:110px;
+   background-image: url(https://th.bing.com/th/id/R.e0d5b063763e74410c7490c2ec81adce?rik=AHOsGq5itFy8Iw&riu=http%3a%2f%2f10wallpaper.com%2fwallpaper%2f1680x1050%2f1110%2fthe_colosseum_rome_italy-photography_wallpaper_selected_fourth_series_1680x1050.jpg&ehk=RJgirYhdLTpQfitFgaa5EcY5eIPHyoXZDaZXUXnS1LI%3d&risl=&pid=ImgRaw&r=0);
+   background-position:center;
+   background-size: cover;
+   padding-left:0px;
+   padding-right:0px;
+   box-sizing: border-box;}
+
+#Titre
+{
+   font-size: 70px;
+   text-align: center;
+   color: white;
+}
+.principal{
+  background-color: white;
+   width:cover;
+   background-position:cover;
+   background-size:auto;
+   box-sizing: border-box;
+   color: black;
+}
+#menu ul>li
+{
+   text-decoration-color: white;
+   text-align: center;
+   display: inline-block;
+   padding-right: 40px;
+   padding-left: 75px;
+   padding-top: 15px;
+}
+a:hover
+{
+   text-decoration-color: black;
+   color: blue
+}
+a
+{
+   color: white;
+}
+h1,h2,h3
+{
+   text-align: center;
+   color:black;
+}
+p
+{
+   font-size: larger;
+   text-align: center;
+}
+.video
+{
+   display: block;
+   text-align: center;
+}
+.images
+{
+   display: block;
+   float: left;
+}
+.piedpage>a
+{
+   display: inline-block;
+    color: darkcyan;
+   text-align:center;
+   border: 3px solid black ;
+   padding:10px;
+}
+.piedpage
+{
+   display:block;
+   width:cover;
+   color: black;
+   text-align: center;
+}
+.map
+{
+   text-align: center;
+}
+p
+{
+}
+.principal>ul>li
+{
+   background-color: none;
+   font-size: large;
+   background-blend-mode: overlay;
+}
+#idb{
+   float: right;
+}
+#idbb{
+   float:left;
+}
